@@ -1,0 +1,28 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  border: 3px solid black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 10px;
+}
+
+button {
+  margin-top: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 150px;
+  background: #000000;
+  border-radius: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  color: white;
+}
